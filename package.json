@@ -1,0 +1,27 @@
+{
+  "name": "atividade-padroes-projeto",
+  "version": "1.0.0",
+  "description": "Organizar um projeto pronto utilizando padrões de projeto",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.1.0",
+    "knex": "^3.1.0",
+    "mysql": "^2.18.1",
+    "restify": "^11.1.0",
+    "restify-errors": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanaAguilar2/Atividade-padroes-projeto.git"
+  },
+  "author": "Luana Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanaAguilar2/Atividade-padroes-projeto/issues"
+  },
+  "homepage": "https://github.com/LuanaAguilar2/Atividade-padroes-projeto#readme"
+}
